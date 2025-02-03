@@ -1,3 +1,5 @@
+![Captura de tela de 2025-02-03 14-29-43](https://github.com/user-attachments/assets/e4c38227-cd10-44a2-a6f0-211099cffd4b)
+
 # Dashboard de Dados
 
 Este é um projeto de dashboard interativo desenvolvido com Flask, HTML, CSS, JavaScript e Chart.js. Ele exibe gráficos dinâmicos para análise de dados fictícios, como vendas mensais e distribuição de categorias de produtos.
