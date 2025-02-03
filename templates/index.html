@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Gráficos de Produção{% endblock %}
+
+{% block content %}
+<div class="dashboard-container">
+    <div class="chart-container">
+        <h2>Vendas Mensais</h2>
+        <p>Visualize as vendas por mês.</p>
+        <canvas id="salesChart"></canvas>
+    </div>
+    <div class="chart-container">
+        <h2>Categorias de Produtos</h2>
+        <p>Distribuição de produtos por categoria.</p>
+        <canvas id="categoryChart"></canvas>
+    </div>
+</div>
+{% endblock %}

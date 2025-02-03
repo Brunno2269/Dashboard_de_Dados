@@ -1,0 +1,14 @@
+{
+    "sales": [5000, 7000, 6500, 8000, 9000, 12000, 11000, 1000, 2500, 500, 20000, 0],
+    "months": ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Desembro"],
+    "categories": {
+        "Eletrônico": 40,
+        "Roupas": 30,
+        "Lar": 20,
+        "Livros": 10,
+        "Pneus": 5,
+        "Lápis": 34,
+        "Placas": 50,
+        "Outros": 100
+    }
+}
